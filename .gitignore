@@ -1,0 +1,7 @@
+# 本机配置、备份、日志、缓存
+*.bak.*
+*.bak
+.env
+__pycache__/
+*.pyc
+*.log
